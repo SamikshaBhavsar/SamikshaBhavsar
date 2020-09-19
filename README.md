@@ -2,7 +2,7 @@
 ###                                               **WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-I'm **Samiksha Bhavsar**,enthusiastic learner. I'm currently pursuing **BTech** :mortar_board: from **IET-DAVV**, Indore. 
+I'm **Samiksha Bhavsar**, an enthusiastic Learner. I'm currently pursuing **BTech** from **IET-DAVV**, Indore:mortar_board:. 
 * :white_square_button: My basic coding language is **Python** .
 * :bar_chart: I'm **Data Science** Enthusiast.
 * :sunglasses: I have worked as Data science and Analytics **Intern** at *The Sparks Foundation*.
