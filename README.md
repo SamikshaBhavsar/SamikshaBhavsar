@@ -13,10 +13,10 @@ I'm **Samiksha Bhavsar**. * :mortar_board: I'm currently pursuing **BTech**. deg
 * :gem: Special talent : Poetry
 
 ### **Contact**:
-Connect with me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)&nbsp;
-[Email](samikshabhavsar1999@gmail.com)
+:email:[Email](samikshabhavsar1999@gmail.com)
 
 
 ### Languages and tools used :
