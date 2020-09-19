@@ -1,4 +1,4 @@
-<p align="center">##HELLO WORLD👋
+<p align="center"><h2><B>HELLO WORLD👋/B><</h2></p>
 <p align="center">###**WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 <p align="center">***Failure isn't the end of journey, rather it is the part of journey.***
 
