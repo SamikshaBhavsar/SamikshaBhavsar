@@ -1,16 +1,19 @@
-### Hi there 👋
+ ##                                                                    Hi there 👋
+###                                                              **Welcome to my Profile**
 
-<!--
-**SamikshaBhavsar/SamikshaBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learning, Problem solving skills, Frontend(HTML, Bootstrap, CSS, Javascript).
 
-Here are some ideas to get you started:
+* :mortar_board: I'm currently pursuing **BTech**. degree from **IET-DAVV**, Indore. 
+* :bar_chart: I'm **Data Science** Enthusiast.
+* :sunglasses: I have worked as Data science and Analytics **Intern** at *The Sparks Foundation*.
+* :raising_hand: I have been recognized as **Global Ambassador** at *WomenTech Network*.
+* :computer: I'm currently learning **Computer Vision**.
+* :clipboard: I'm interested to work on creative and unique **Deep learning project**
+* :star: I'm currently working on my coding skills.
+* :mega: I'm looking for Data Science internship.
+* :iphone: * **Contact me**:
+  1. Connect with me on [Linkedin](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+  2. Email: samikshabhavsar1999@gmail.com
+* :gem: Special talent : Poetry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
