@@ -1,6 +1,6 @@
- ##                                                                  :-: HELLO WORLD👋
-###                                              :-: **WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
-:-:***Failure isn't the end of journey, rather it is the part of journey.***
+<p align="center">##HELLO WORLD👋
+<p align="center">###**WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
+<p align="center">***Failure isn't the end of journey, rather it is the part of journey.***
 
 I'm **Samiksha Bhavsar**, an enthusiastic Learner. I'm currently pursuing **BTech** from **IET-DAVV**, Indore:mortar_board:. 
 * :white_square_button: My basic coding language is **Python** .
