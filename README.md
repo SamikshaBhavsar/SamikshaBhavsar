@@ -2,9 +2,8 @@
 ###                                               **WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-I'm **Samiksha Bhavsar**. I'm enthusiastic learner. My basic coding language is **Python** .
-* :mortar_board: I'm currently pursuing **BTech**. degree from **IET-DAVV**, Indore. 
-* :bar_chart: I'm **Data Science** Enthusiast.
+I'm **Samiksha Bhavsar**. * :mortar_board: I'm currently pursuing **BTech**. degree from **IET-DAVV**, Indore. I'm enthusiastic learner. My basic coding language is **Python** .
+ * :bar_chart: I'm **Data Science** Enthusiast.
 * :sunglasses: I have worked as Data science and Analytics **Intern** at *The Sparks Foundation*.
 * :raising_hand: I have been recognized as **Global Ambassador** at *WomenTech Network*.
 * :computer: I'm currently learning **Computer Vision**.
@@ -13,11 +12,11 @@ I'm **Samiksha Bhavsar**. I'm enthusiastic learner. My basic coding language is 
 * :mega: I'm looking for Data Science **internship**.
 * :gem: Special talent : Poetry
 
-### **Contact me**:
-1.Connect with me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+### **Contact**:
+Connect with me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)&nbsp;
-2.Email: samikshabhavsar1999@gmail.com
+[Email](samikshabhavsar1999@gmail.com)
 
 
 ### Languages and tools used :
