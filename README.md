@@ -1,6 +1,6 @@
-##**HELLO WORLD👋**
+##HELLO WORLD👋
 
-###**WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
+###WELCOME TO MY PROFILE [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
