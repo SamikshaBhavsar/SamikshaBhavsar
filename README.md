@@ -1,5 +1,6 @@
- ##                                                                    Hi there 👋
+ ##                                                                   HELLO WORLD👋
 ###                                                              **WELCOME TO MY PROFILE**
+***Failure isn't the end of journey, rather it is the part of journey.***
 
 I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learning, Problem solving skills, Frontend(HTML, Bootstrap, CSS, Javascript).
 
