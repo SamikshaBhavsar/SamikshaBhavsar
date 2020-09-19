@@ -13,12 +13,11 @@ I'm **Samiksha Bhavsar**. I'm enthusiastic learner. My basic coding language is 
 * :mega: I'm looking for Data Science **internship**.
 * :gem: Special talent : Poetry
 
-### :iphone: **Contact me**:
-  1.Connect with me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+### **Contact me**:
+1.Connect with me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)
-
-  2. Email: samikshabhavsar1999@gmail.com
+2. Email: samikshabhavsar1999@gmail.com
 
 
 ### Languages and tools used :
