@@ -2,7 +2,7 @@
 ###                                               **WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-I'm Samiksha Bhavsar. I'm enthusiastic learner. 
+I'm **Samiksha Bhavsar**. I'm enthusiastic learner. My basic coding language is **Python** .
 * :mortar_board: I'm currently pursuing **BTech**. degree from **IET-DAVV**, Indore. 
 * :bar_chart: I'm **Data Science** Enthusiast.
 * :sunglasses: I have worked as Data science and Analytics **Intern** at *The Sparks Foundation*.
@@ -11,15 +11,16 @@ I'm Samiksha Bhavsar. I'm enthusiastic learner.
 * :clipboard: I'm interested to work on creative and unique **Deep learning project**
 * :star: I'm currently working on my **coding** skills.
 * :mega: I'm looking for Data Science **internship**.
+* :gem: Special talent : Poetry
 * :iphone: **Contact me**:
   1. Connect with me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)
 
   2. Email: samikshabhavsar1999@gmail.com
-* :gem: Special talent : Poetry
 
-Languages and tools used by:
+
+* Languages and tools used by:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;
