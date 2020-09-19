@@ -16,7 +16,7 @@ I'm **Samiksha Bhavsar**. * :mortar_board: I'm currently pursuing **BTech**. deg
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)&nbsp;
-:email:[Email](samikshabhavsar1999@gmail.com)
+:email: [Email](samikshabhavsar1999@gmail.com)
 
 
 ### Languages and tools used :
