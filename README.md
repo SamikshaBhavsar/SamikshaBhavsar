@@ -1,5 +1,5 @@
  ##                                                                    Hi there 👋
-###                                                              **Welcome to my Profile**
+###                                                              **WELCOME TO MY PROFILE**
 
 I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learning, Problem solving skills, Frontend(HTML, Bootstrap, CSS, Javascript).
 
@@ -9,9 +9,9 @@ I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learn
 * :raising_hand: I have been recognized as **Global Ambassador** at *WomenTech Network*.
 * :computer: I'm currently learning **Computer Vision**.
 * :clipboard: I'm interested to work on creative and unique **Deep learning project**
-* :star: I'm currently working on my coding skills.
-* :mega: I'm looking for Data Science internship.
-* :iphone: * **Contact me**:
+* :star: I'm currently working on my **coding** skills.
+* :mega: I'm looking for Data Science **internship**.
+* :iphone: **Contact me**:
   1. Connect with me on [Linkedin](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
   2. Email: samikshabhavsar1999@gmail.com
 * :gem: Special talent : Poetry
