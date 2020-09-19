@@ -13,7 +13,10 @@ I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learn
 * :star: I'm currently working on my **coding** skills.
 * :mega: I'm looking for Data Science **internship**.
 * :iphone: **Contact me**:
-  1. Connect with me on [Linkedin](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+  1. Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+&nbsp;
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)
+
   2. Email: samikshabhavsar1999@gmail.com
 * :gem: Special talent : Poetry
 
