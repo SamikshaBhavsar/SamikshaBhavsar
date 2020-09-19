@@ -1,5 +1,5 @@
  ##                                                                   HELLO WORLD👋
-###                                                              **WELCOME TO MY PROFILE**
+###                                               **WELCOME TO MY PROFILE** [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
 I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learning, Problem solving skills, Frontend(HTML, Bootstrap, CSS, Javascript).
@@ -13,7 +13,7 @@ I'm Samiksha Bhavsar. I'm enthusiastic learner skilled in Python3, Machine learn
 * :star: I'm currently working on my **coding** skills.
 * :mega: I'm looking for Data Science **internship**.
 * :iphone: **Contact me**:
-  1. Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
+  1. Connect with me on  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samiksha-bhavsar-33837417a)
 &nbsp;
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SamikshaBhavsar)
 
