@@ -7,8 +7,6 @@
 I'm **Samiksha Bhavsar**, an enthusiastic Learner. I'm currently pursuing **BTech** from **IET-DAVV**, Indore:mortar_board:. 
 * :white_square_button: My basic coding language is **Python** .
 * :bar_chart: I'm **Data Science** Enthusiast.
-* :sunglasses: I am currently working as Data science and Analytics **Intern** at *The Sparks Foundation*.
-* :raising_hand: I have been recognized as **Global Ambassador** at *WomenTech Network*.
 * :clipboard: I'm interested to work on creative and unique **Deep learning project**
 * :mega: I'm looking for Data Science **internship**.
 * :gem: Special talent : Poetry
