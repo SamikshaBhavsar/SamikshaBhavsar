@@ -9,7 +9,7 @@
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
 
-* :mortar_board:I'm currently pursuing **BTech** from **IET-DAVV**, Indore.
+* :mortar_board:I'm currently pursuing **B.E.** from **IET-DAVV**, Indore.
 * :bar_chart: I'm **Data Science** Enthusiast.
 * :white_square_button: Programming Languages: **Python**, **Java**  .
 * :clipboard: I’m looking to collaborate on unique Data Science projects.
