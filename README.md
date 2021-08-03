@@ -8,7 +8,7 @@
 
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-
+### About me:
 * :mortar_board:I'm currently pursuing **B.E.** from **IET-DAVV**, Indore.
 * :bar_chart: I'm **Data Science** Enthusiast.
 * :white_square_button: Programming Languages: **Python**, **Java**  .
