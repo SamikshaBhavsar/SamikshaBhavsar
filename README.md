@@ -10,10 +10,10 @@
 
 
 * :mortar_board:I'm currently pursuing **BTech** from **IET-DAVV**, Indore.
-* :white_square_button: My basic coding language is **Python** .
 * :bar_chart: I'm **Data Science** Enthusiast.
-* :clipboard: I'm interested to work on creative and unique **Deep learning project**
-* :mega: I'm looking for Data Science **internship**.
+* :white_square_button: Programming Languages: **Python**, **Java**  .
+* :clipboard: I’m looking to collaborate on unique Data Science projects.
+* :mega: I'm willing to contribute more and more in **Open Source** Projects
 * :gem: Special talent : Poetry, Graphics Designing, Blogging
 
 
