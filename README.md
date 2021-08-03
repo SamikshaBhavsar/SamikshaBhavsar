@@ -20,10 +20,11 @@
 
 
 
-### Languages and tools used :
+### Languages and Tools used :
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"></code>&nbsp;
+<code><img height="40" src="https://th.bing.com/th/id/OIP.ONnEuk5TBe5M9ZU_UlmOwQAAAA?pid=ImgDet&rs=1"></code>&nbsp;
 <code><img height="40" src="https://hadrienj.github.io/assets/images/icons/sklearn.png"></code>&nbsp;
 <code><img height="40" src="https://python-tricks.com/wp-content/uploads/2019/11/numpy-logo-2-300x300.jpg"></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>&nbsp;
@@ -37,10 +38,13 @@
 
 ### Connect with me on:
 <p>
-	<a href="https://github.com/SamikshaBhavsar"><img alt="github" height="10%" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/samiksha-bhavsar-33837417a"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="samikshabhavsar1999@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+	<a href="https://github.com/SamikshaBhavsar"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/samiksha-bhavsar-33837417a"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="samikshabhavsar1999@gmail.com"><img alt="gmail" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
+
+<!--
+![](https://komarev.com/ghpvc/?username=SamikshaBhavsar) --!>
 
 
 
