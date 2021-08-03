@@ -5,12 +5,11 @@
 </h2>
 
 <img align = "right" height="200rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></p>
-
-### **WELCOME TO MY PROFILE [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/SamikshaBhavsar)**
+<h3>I am Samiksha Bhavsar, an enthusiastic learner.</h3>
 
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-I'm **Samiksha Bhavsar**, an enthusiastic Learner.  
+
 * :mortar_board:I'm currently pursuing **BTech** from **IET-DAVV**, Indore.
 * :white_square_button: My basic coding language is **Python** .
 * :bar_chart: I'm **Data Science** Enthusiast.
