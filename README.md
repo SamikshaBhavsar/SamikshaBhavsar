@@ -3,12 +3,12 @@
   Hello,World! I am Samiksha Bhavsar.
 </h2>
 
-<img align = "right" height="200rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></p>
+
 
 
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
-### About me:
+### About me:<img align = "right" height="200rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></p>
 * :mortar_board:I'm currently pursuing **B.E.** from **IET-DAVV**, Indore.
 * :bar_chart: I'm **Data Science** Enthusiast.
 * :white_square_button: Programming Languages: **Python**, **Java**  .
