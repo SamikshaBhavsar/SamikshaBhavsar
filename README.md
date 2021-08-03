@@ -33,7 +33,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### Connect with me on:
+### Connect with me on :
 <p>
 	<a href="https://github.com/SamikshaBhavsar"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/samiksha-bhavsar-33837417a"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
@@ -41,7 +41,8 @@
 </p>
 
 <!--
-![](https://komarev.com/ghpvc/?username=SamikshaBhavsar) --!>
+![](https://komarev.com/ghpvc/?username=SamikshaBhavsar) <img height = "50" src = "https://github.com/raghavk16/raghavk16/blob/master/connected.gif">--!>
+
 
 
 
