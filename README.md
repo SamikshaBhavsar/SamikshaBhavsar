@@ -1,11 +1,10 @@
 <h2>
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
-  Hello,World!
-  <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
+  Hello,World! I am Samiksha Bhavsar.
 </h2>
 
 <img align = "right" height="200rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></p>
-<h3>I am Samiksha Bhavsar, an enthusiastic learner.</h3>
+
 
 ***Failure isn't the end of journey, rather it is the part of journey.***
 
